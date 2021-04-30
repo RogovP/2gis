@@ -1,0 +1,12 @@
+{
+  "database": {
+    "host": "10.10.2.15",
+    "name": "gis",
+    "user": "postgres",
+    "password": "postgres",
+    "port": "5432"
+  },
+  "server": {
+    "port": "8085"
+  }
+}
